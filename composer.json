@@ -1,0 +1,14 @@
+{
+    "require": {
+        "illuminate/database": "^5.3",
+        "wazaari/monolog-mysql": "^1.0",
+        "filp/whoops": "^2.1",
+        "symfony/http-foundation": "^3.2",
+        "instante/bootstrap-3-renderer": "^1.2",
+        "illuminate/events": "^5.3",
+        "phpoffice/phpword": "^0.13.0",
+        "guzzlehttp/guzzle": "^6.2",
+        "tecnickcom/tcpdf": "^6.2",
+        "google/apiclient": "^2.1"
+    }
+}
